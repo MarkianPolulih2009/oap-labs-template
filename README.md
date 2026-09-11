@@ -16,6 +16,8 @@
 - [`lab02/task2.cpp`](lab02/task2.cpp) — програма варіанта 16;
 - [`lab02/screenshots/`](lab02/screenshots/) — скріншоти перевірки програм;
 - [`lab02/report.md`](lab02/report.md) — звіт із поясненнями та тестами.
+- [`lab01/main.cpp`](lab01/main.cpp) — програма-візитівка для ЛР1;
+- [`lab01/report.md`](lab01/report.md) — звіт до ЛР1.
 
 ## Завдання варіанта 16
 
