@@ -1,4 +1,3 @@
-# Visual Studio and compiler output
 *.exe
 *.obj
 *.o
@@ -9,7 +8,6 @@ Debug/
 Release/
 .vs/
 
-# Temporary editor and system files
 .vscode/
 *.tmp
 *.log
