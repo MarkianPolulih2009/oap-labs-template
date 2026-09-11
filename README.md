@@ -1,4 +1,4 @@
-# OAP Labs
+# Лабораторні роботи OAP
 
 Лабораторні роботи з дисципліни **«Програмування (ОАП)»**.
 
@@ -39,7 +39,7 @@ oap-labs/
 - [Скріншоти запуску та помилок](lab01/screenshots/)
 
 У звіті наведено версії Visual Studio, MSVC і g++, перевірку стандартів
-C++98/C++14/C++17, результати запуску та повідомлення компіляторів.
+C++98, C++14 і C++17, результати запуску та повідомлення компіляторів.
 
 ## Лабораторна робота 2
 
@@ -51,22 +51,23 @@ C++98/C++14/C++17, результати запуску та повідомлен
 - [Звіт `report.md`](lab02/report.md)
 - [Скріншоти перевірки](lab02/screenshots/)
 
-Варіант 16: за кількістю днів визначити повні тижні та залишок днів.
+**Варіант 16:** за заданою кількістю днів визначити кількість повних
+тижнів і кількість днів, що залишилися.
 
 ```text
 100 -> 14 weeks 2 days
 ```
 
-## Збірка і запуск
+## Збірка та запуск
 
-Для ЛР1:
+### Лабораторна робота 1
 
 ```powershell
 g++ -std=c++17 -Wall -Wextra -pedantic lab01\main.cpp -o lab01.exe
 .\lab01.exe
 ```
 
-Для ЛР2:
+### Лабораторна робота 2
 
 ```powershell
 g++ -std=c++17 -Wall -Wextra -pedantic lab02\task1.cpp -o task1.exe
@@ -76,9 +77,10 @@ g++ -std=c++17 -Wall -Wextra -pedantic lab02\task2.cpp -o task2.exe
 .\task2.exe
 ```
 
-Усі програми перевіряються без попереджень за допомогою `-Wall -Wextra -pedantic`.
-Файли `.exe`, `x64/`, `Debug/`, `Release/` та `.vs/` не додаються до Git.
+Усі програми перевіряються з прапорами `-Wall`, `-Wextra` і `-pedantic`.
+Файли `.exe`, каталоги `x64/`, `Debug/`, `Release/` та `.vs/`
+не додаються до Git.
 
 ## Репозиторій
 
-[github.com/MarkianPolulih2009/lab02](https://github.com/MarkianPolulih2009/lab02)
+[github.com/MarkianPolulih2009/oap-labs](https://github.com/MarkianPolulih2009/oap-labs)
