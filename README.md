@@ -14,6 +14,7 @@
 - [`lab02/task1.cpp`](lab02/task1.cpp) — виправлення помилок у навчальній програмі;
 - [`lab02/division-demo.cpp`](lab02/division-demo.cpp) — окремий дослід ділення на нуль;
 - [`lab02/task2.cpp`](lab02/task2.cpp) — програма варіанта 16;
+- [`lab02/screenshots/`](lab02/screenshots/) — скріншоти перевірки програм;
 - [`lab02/report.md`](lab02/report.md) — звіт із поясненнями та тестами.
 
 ## Завдання варіанта 16

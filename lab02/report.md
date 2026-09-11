@@ -86,6 +86,16 @@ Average = 4
 | `6` | `0 weeks 6 days` |
 | `365` | `52 weeks 1 days` |
 
+### Підтвердження запуску
+
+Перевірка `task1.cpp` для введення `3 5`:
+
+![Запуск task1](screenshots/task1-run.png)
+
+Перевірка `task2.cpp` для введення `7` і `365`:
+
+![Запуск task2](screenshots/task2-run.png)
+
 ## Історія Git
 
 ```text
