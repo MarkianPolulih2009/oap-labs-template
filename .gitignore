@@ -1,0 +1,17 @@
+# Visual Studio and compiler output
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+x64/
+Debug/
+Release/
+.vs/
+
+# Temporary editor and system files
+.vscode/
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
