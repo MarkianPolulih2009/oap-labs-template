@@ -21,6 +21,10 @@ oap-labs/
 ├── lab01/
 │   ├── main.cpp
 │   ├── report.md
+│   ├── lab01.slnx
+│   ├── lab01.vcxproj
+│   ├── lab01.vcxproj.filters
+│   ├── lab01.vcxproj.user
 │   └── screenshots/
 └── lab02/
     ├── task1.cpp

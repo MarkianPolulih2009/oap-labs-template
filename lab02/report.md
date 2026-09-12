@@ -17,6 +17,8 @@
 - `report.md` — цей звіт.
 
 Файли `.exe`, каталоги `x64/` і тимчасові файли до репозиторію не додаються.
+Файли Visual Studio для ЛР1 (`lab01.slnx`, `lab01.vcxproj`,
+`lab01.vcxproj.filters`, `lab01.vcxproj.user`) збережено в папці `lab01/`.
 
 ## Частина Б. Пошук помилок
 

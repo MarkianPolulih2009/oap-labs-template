@@ -8,7 +8,6 @@ Debug/
 Release/
 .vs/
 
-.vscode/
 *.tmp
 *.log
 Thumbs.db
