@@ -26,12 +26,23 @@ oap-labs/
 │   ├── lab01.vcxproj.filters
 │   ├── lab01.vcxproj.user
 │   └── screenshots/
-└── lab02/
-    ├── task1.cpp
-    ├── task2.cpp
-    ├── division-demo.cpp
-    ├── report.md
-    └── screenshots/
+├── lab02/
+│   ├── task1.cpp
+│   ├── task2.cpp
+│   ├── division-demo.cpp
+│   ├── report.md
+│   └── screenshots/
+├── lab03/
+│   ├── task1.cpp
+│   ├── task2.cpp
+│   ├── task3.cpp
+│   └── report.md
+├── lab04/
+│   ├── task1.cpp
+│   ├── task2.cpp
+│   ├── task3.cpp
+│   └── report.md
+└── .github/
 ```
 
 ## Лабораторна робота 1
