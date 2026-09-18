@@ -13,7 +13,7 @@
 ## Структура репозиторію
 
 ```text
-oap-labs/
+oap-labs-template/
 ├── .clang-format
 ├── .editorconfig
 ├── .gitignore
@@ -157,4 +157,4 @@ g++ -std=c++17 -Wall -Wextra -pedantic lab04\task3.cpp -o task3.exe
 
 ## Репозиторій
 
-[github.com/MarkianPolulih2009/oap-labs](https://github.com/MarkianPolulih2009/oap-labs)
+[github.com/MarkianPolulih2009/oap-labs-template](https://github.com/MarkianPolulih2009/oap-labs-template)
