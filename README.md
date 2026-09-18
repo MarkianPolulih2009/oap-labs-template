@@ -62,6 +62,30 @@ C++98, C++14 і C++17, результати запуску та повідомл
 100 -> 14 weeks 2 days
 ```
 
+## Лабораторна робота 3
+
+**Тема:** лінійні програми: формули і форматований вивід.
+
+- [Завдання 1 — трикутник](lab03/task1.cpp)
+- [Завдання 2 — варіант 16](lab03/task2.cpp)
+- [Завдання 3 — практична задача](lab03/task3.cpp)
+- [Звіт `report.md`](lab03/report.md)
+
+**Кілька завдань в одній роботі:** кожна програма містить окремий `main()`
+і збирається окремо.
+
+## Лабораторна робота 4
+
+**Тема:** розгалуження: `if/else` і `switch`.
+
+- [Завдання 1 — квадратне рівняння](lab04/task1.cpp)
+- [Завдання 2 — варіант 16](lab04/task2.cpp)
+- [Завдання 3 — оренда авто](lab04/task3.cpp)
+- [Звіт `report.md`](lab04/report.md)
+
+**Кілька завдань в одній роботі:** кожна програма містить окремий `main()`
+і збирається окремо.
+
 ## Збірка та запуск
 
 ### Лабораторна робота 1
@@ -79,6 +103,32 @@ g++ -std=c++17 -Wall -Wextra -pedantic lab02\task1.cpp -o task1.exe
 
 g++ -std=c++17 -Wall -Wextra -pedantic lab02\task2.cpp -o task2.exe
 .\task2.exe
+```
+
+### Лабораторна робота 3
+
+```powershell
+g++ -std=c++17 -Wall -Wextra -pedantic lab03\task1.cpp -o task1.exe
+.\task1.exe
+
+g++ -std=c++17 -Wall -Wextra -pedantic lab03\task2.cpp -o task2.exe
+.\task2.exe
+
+g++ -std=c++17 -Wall -Wextra -pedantic lab03\task3.cpp -o task3.exe
+.\task3.exe
+```
+
+### Лабораторна робота 4
+
+```powershell
+g++ -std=c++17 -Wall -Wextra -pedantic lab04\task1.cpp -o task1.exe
+.\task1.exe
+
+g++ -std=c++17 -Wall -Wextra -pedantic lab04\task2.cpp -o task2.exe
+.\task2.exe
+
+g++ -std=c++17 -Wall -Wextra -pedantic lab04\task3.cpp -o task3.exe
+.\task3.exe
 ```
 
 Усі програми перевіряються з прапорами `-Wall`, `-Wextra` і `-pedantic`.
