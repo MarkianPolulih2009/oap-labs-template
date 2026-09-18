@@ -14,10 +14,15 @@
 
 ```text
 oap-labs/
-├── README.md
-├── .gitignore
 ├── .clang-format
 ├── .editorconfig
+├── .gitignore
+├── .vscode/
+│   ├── extensions.json
+│   ├── launch.json
+│   ├── settings.json
+│   └── tasks.json
+├── README.md
 ├── lab01/
 │   ├── main.cpp
 │   ├── report.md
@@ -42,7 +47,7 @@ oap-labs/
 │   ├── task2.cpp
 │   ├── task3.cpp
 │   └── report.md
-└── .github/
+└── .git/
 ```
 
 ## Лабораторна робота 1
